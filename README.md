@@ -6,22 +6,15 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/phamquoccuong/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+
 <br>
 <p align="center">
-  Hi, I'm Phạm Quốc Cường, An Engineer from Vietnam
+  Hi, I'm Phạm Quốc Cường
   <br>
   <br>
   🔬 I'm currently studying for a PhD's degree in Danang University of Science and Technology
   <br>
   🎓 I graduated from Electronics and Telecommunications Engineering Department
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
   💬 Ask me anything about from <a href="https://github.com/phamquoc-cuong" title="Issues">Here</a>
   <br>
@@ -46,7 +39,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=phamquoc-cuong&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
