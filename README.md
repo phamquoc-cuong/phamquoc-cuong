@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Phạm Quốc Cường
+  Hi, I'm Cường Phạm
   <br>
   <br>
   🔬 I'm currently studying for a PhD's degree in Danang University of Science and Technology
